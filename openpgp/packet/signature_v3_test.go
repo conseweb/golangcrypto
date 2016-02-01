@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/btcsuite/golangcrypto/openpgp/armor"
+	"github.com/conseweb/golangcrypto/openpgp/armor"
 )
 
 func TestSignatureV3Read(t *testing.T) {

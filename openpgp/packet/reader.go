@@ -5,7 +5,7 @@
 package packet
 
 import (
-	"github.com/btcsuite/golangcrypto/openpgp/errors"
+	"github.com/conseweb/golangcrypto/openpgp/errors"
 	"io"
 )
 

@@ -6,10 +6,10 @@ package openpgp
 
 import (
 	"crypto"
-	"github.com/btcsuite/golangcrypto/openpgp/armor"
-	"github.com/btcsuite/golangcrypto/openpgp/errors"
-	"github.com/btcsuite/golangcrypto/openpgp/packet"
-	"github.com/btcsuite/golangcrypto/openpgp/s2k"
+	"github.com/conseweb/golangcrypto/openpgp/armor"
+	"github.com/conseweb/golangcrypto/openpgp/errors"
+	"github.com/conseweb/golangcrypto/openpgp/packet"
+	"github.com/conseweb/golangcrypto/openpgp/s2k"
 	"hash"
 	"io"
 	"strconv"

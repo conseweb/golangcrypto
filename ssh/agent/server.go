@@ -12,7 +12,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/btcsuite/golangcrypto/ssh"
+	"github.com/conseweb/golangcrypto/ssh"
 )
 
 // Server wraps an Agent and uses it to implement the agent side of

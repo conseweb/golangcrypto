@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/btcsuite/golangcrypto/openpgp/errors"
+	"github.com/conseweb/golangcrypto/openpgp/errors"
 )
 
 // PublicKeyV3 represents older, version 3 public keys. These keys are less secure and
